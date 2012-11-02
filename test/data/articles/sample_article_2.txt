@@ -1,0 +1,13 @@
+Natten mellan tisdag och onsdag byggde och lanserade jag sajten dhen.se, ett webbfilter som översätter "han" och "hon" på dn.se till "hen".
+På onsdagsmorgonen klockan 10.45 får jag ett mejl från supporten på mitt webbhotell. De vidarebefordar ett mejl från Rickard Karlsson på Bonnier Digital som ansvarar för driften av dn.se.
+Bonnier-mejlet avslutas "Detta är polisanmält och vi vill att denna server ska plockas bort omedelbart". Kanske, tänkte jag, är pratet om polisanmälan bara ett skrämskott som ska få webbhotellet att dra öronen åt sig och stänga av min server.
+Jag mejlar Rickard Karlsson för att höra om det där med polisanmälan verkligen stämmer. Inte kan väl DN förstå sig så illa på medielogik att de hanterar detta ärende med en polisanmälan, tänkte jag.
+Jag fick inget svar. Trekvart senare fick jag i stället ett nytt mejl från webbhotellet. Denna gång med kopia på ett mejl från Per Hedmark på DN. Han upprepar påståendet att en polisanmälan gjorts och inkluderar även ett ärendenummer.
+Jag blir intervjuad i alla upptänkliga sammanhang och ger min version av skeendet. Upplysningen om polisanmälan går varm på Twitter och trafiken till dhen.se får sajten att segna. Samtidigt upptäcker jag att dn.se börjat spärra trafiken från dhen.se. Jag byter serverns IP-nummer, den funkar en stund till och sedan blir även det nya IP-numret blockerat.
+ 
+På DN avböjer man att kommentera och svarar i stället på torsdagsmorgonen med en notis i den egna tidningen: "Dhen-sajt inte polisanmäld". Hur går detta ihop med informationen i mejlen från gårdagen?
+DN:s redaktionschef Åsa Tillberg säger till Medievärlden (13/9) att en polisanmälan visserligen gjorts men att den person som gjorde anmälan (Rickard eller Per förmodar jag) inte hade mandat till det.
+Hon tycker inte att det är fel eller förvirrande att meddela läsarna att ingen polisanmälan gjorts.
+ 
+Det är alltså samma person som vill undvika "hen" för det kan vara förvirrande för läsarna.
+DN-ledningens policy runt "hen" kommer sig av att de tror att läsarna är dumma och reaktionära. De tror fortfarande på "Nisse i Bagarmossen", men Sverige ser inte ut så längre. Deras hantering av dhen.se däremot är bara inkompetens.
