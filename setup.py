@@ -14,7 +14,7 @@ Topic :: Text Processing :: General
 
 setup(
     name='pydodo',
-    packages=['python'],
+    packages=['pydodo'],
     version='0.0.1',
     description='Markov chain generator',
     author='Oivvio Polite',
